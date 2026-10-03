@@ -3,7 +3,7 @@ const CONFIG = {
   name: 'Preeti',               // shown in the banner; '' to hide
   balloonText: 'HAPPY BIRTHDAY', // one balloon per letter, spaces start a new row
   music: '/music.mp3',          // falls back to a synth tune if missing
-  profile: '/photos/placeholder.svg',
+  profile: '/photos/profile.jpeg',
   photos: [
     '/photos/1.jpeg',
     '/photos/2.jpeg',
@@ -11,14 +11,14 @@ const CONFIG = {
     '/photos/4.jpeg',
   ],
   messages: [
-    'Today is...', 'as beautiful as other days', 'but you realize', 'another year has gone',
-    'in a blink of the eyes', 'however...', 'Do you know..?', 'today is just special',
-    'so special to you', "that's why", "Let's make it...", 'the best celebration ever',
-    'and let me share...', 'a piece of happiness to you', 'I made all this...',
-    'as a birthday present to you', 'thanks for everything', 'I wish you all the best',
-    'May all your wishes come true', 'enjoy every single moment...',
-    'fill it with your most beautiful smile', 'and make it the best memory..', 'lastly...',
-    "I'd like to wish you one more time", 'a very happy birthday ❤️',
+    'Last year, I met you,', 'and that was one of the biggest blessings for me ❤️',
+    'The way you stood by me', 'through every situation', 'means more to me than words can express. 🥹💗',
+    'And today, on your special day,', 'I just want to make it a little happier for you. 🌸',
+    'Wishing you a very, very Happy Birthday,', 'dear Suuchu!!! ❤️🎂',
+    'I hope all your wishes come true', 'and you get everything your heart desires.',
+    'And most importantly,', 'I hope you find your boyfriend before your next birthday! 😁😂💕',
+    'Enjoy your day to the fullest.', 'You deserve all the happiness in the world. 🤌🌸❤️',
+    'Happppyyyyy Birthday 🎂🎈',
   ],
 };
 
